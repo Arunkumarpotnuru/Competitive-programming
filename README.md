@@ -12,11 +12,11 @@ The CSES Problem Set is a versatile resource for honing algorithmic and problem-
 
 *Introductory Problems*
 
-**[1: Weird Algorithm](https://github.com/Arunkumarpotnuru/Competitive-programming/blob/main/CSES-solutions/Weird_Algorithm.cpp)**
+**[1: Weird Algorithm](CSES-solutions/Weird_Algorithm.cpp)**
 
 **[2: Missing Number](CSES-solutions/Missing_Number.cpp)**
 
-**[3: Repetitions]()**
+**[3: Repetitions](CSES-solutions/Repetitions.cpp)**
 
-**[4: Increasing Array]()**
+**[4: Increasing Array](CSES-solutions/Increasing_Array.cpp)**
 
