@@ -22,3 +22,7 @@ The CSES Problem Set is a versatile resource for honing algorithmic and problem-
 
 **[5: Permutations](CSES-solutions/Permutations.cpp)**
 
+**[6: Number Spiral](CSES-solutions/NumberSpiral.cpp)**
+
+
+
