@@ -20,3 +20,5 @@ The CSES Problem Set is a versatile resource for honing algorithmic and problem-
 
 **[4: Increasing Array](CSES-solutions/Increasing_Array.cpp)**
 
+**[5: Permutations](CSES-solutions/Permutations.cpp)**
+
