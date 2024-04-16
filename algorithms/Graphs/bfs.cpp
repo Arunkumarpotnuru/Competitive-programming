@@ -1,3 +1,5 @@
+// sc = O(V)
+// tc = O(V + 2E)
 vector<int> bfsTraversal(int n, vector<vector<int>> &adj){
     // Write your code here.
       vector<int>bfs;
