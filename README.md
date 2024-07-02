@@ -24,5 +24,8 @@ The CSES Problem Set is a versatile resource for honing algorithmic and problem-
 
 **[6: Number Spiral](CSES-solutions/NumberSpiral.cpp)**
 
+**[7: Two Knights](CSES-solutions/TwoKnights.cpp)**
+
+
 
 
